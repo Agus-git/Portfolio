@@ -1,15 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Titulo from "./Titulo"
 
 ReactDOM.render(
   <React.StrictMode>
-    <div className = "app">
-      <h1 className = "titulo">
-        Portfolio
-      </h1>
-    </div>
+    <Titulo/>
   </React.StrictMode>,
   document.getElementById('root')
 );
-

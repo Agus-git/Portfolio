@@ -1,0 +1,15 @@
+.app {
+    background: linear-gradient(to right, #020202 50%, #111111 50%);
+    text-align: center;
+}
+.titulo-nombre{
+    color: #ff8c00;
+    font-size: 50px;
+}
+.titulo-separacion{
+    color: whitesmoke;
+}
+.titulo-ejemplos{
+    color: whitesmoke;
+    text-indent: 50px;
+}
